@@ -1,2 +1,1 @@
-# g30spki
-Nice
+Rimaindder
